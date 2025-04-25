@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.mockupimage",
 	"version": "1.0.0",
-	"displayName": "Mockup Image",
+	"displayName": "Five - Mockup Image",
 	"description": "Placeholder for the mockup/example image, with button to set it opaque or transparent",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
