@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace CircleSort
+namespace Five.UI
 {
 #if UNITY_EDITOR
     [CustomEditor(typeof(MockupImage))]

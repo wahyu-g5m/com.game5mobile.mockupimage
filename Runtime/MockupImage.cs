@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CircleSort
+namespace Five.UI
 {
     public class MockupImage : MonoBehaviour
     {
